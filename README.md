@@ -12,7 +12,7 @@ O veículo recebe comandos sem fio enviados por um aplicativo móvel personaliza
 
 * Desenvolver um carrinho robótico funcional controlado remotamente.
 * Integrar comunicação Bluetooth estável entre o aplicativo e a ESP-32.
-* Promover a sustentabilidade através da reutilização de materiais e lixo eletrônico para a construção da carcaça do robô.
+* Incentivar a sustentabilidade através da reutilização de resíduos eletrônicos, conectando tecnologia e cultura por meio da inspiração no movimento Manguebeat.
 * Implementar controle preciso de direção e velocidade dos motores.
 
 ## 🛠️ Componentes Utilizados
