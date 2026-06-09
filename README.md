@@ -1,6 +1,6 @@
 # CaRanguejo 🦀
 
-O **CaRanguejo** é um projeto de modelagem prática que consiste em um veículo robótico controlado via Bluetooth utilizando uma placa ESP-32. O grande diferencial do projeto é sua carcaça sustentável, construída a partir de itens eletrônicos reciclados em formato de caranguejo.
+O **CaRanguejo** é um projeto de modelagem prática que consiste em um veículo robótico controlado via Bluetooth utilizando uma placa ESP-32. O grande diferencial do projeto é um caranguejo decorativo, construído a partir de itens eletrônicos reciclados em formato de caranguejo.
 
 ---
 
