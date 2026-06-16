@@ -100,7 +100,7 @@ void tras() {
   digitalWrite(IN4, HIGH);
 }
 
-void direita() {
+void esquerda() {
 
   ledcWrite(ENA, velocidade);
   ledcWrite(ENB, velocidade);
@@ -112,7 +112,7 @@ void direita() {
   digitalWrite(IN4, HIGH);
 }
 
-void esquerda() {
+void direita() {
 
   ledcWrite(ENA, velocidade);
   ledcWrite(ENB, velocidade);
