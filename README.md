@@ -22,7 +22,7 @@ O veículo recebe comandos sem fio enviados por um aplicativo móvel personaliza
 * **Atuadores:** 4 Motores DC (3-6V)
 * **Alimentação:** Pilhas/Baterias Recarregáveis 18650 com suporte/case adequado
 * **Conectores:** Cabos Jumper (Macho x Fêmea, Macho x Macho, Fêmea x Fêmea)
-* **Estrutura:** Chassi e carcaça customizados com materiais reciclados em formato de caranguejo
+* **Estrutura:** Chassi e carcaça customizada com materiais eleteônicos reciclados 
 
 ## 🧠 Lógica de Funcionamento
 
